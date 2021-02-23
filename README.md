@@ -1,2 +1,2 @@
 # G2-ReactionWheel
-Reaction Wheel project for MECA 482 at CSU Chico.
+Reaction Wheel project for MECA 482 at CSU Chico!
