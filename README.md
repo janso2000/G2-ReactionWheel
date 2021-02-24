@@ -1,7 +1,6 @@
-# MECHA482-ReactionWheel
+# MECHA 482 - Ball on Plate
 # Group 2
-Reaction Wheel project for MECA 482 at CSU Chico.
-
+MECHA 482 Control Systems Project
 
 -------------------------------------------------------------------------------------
 
